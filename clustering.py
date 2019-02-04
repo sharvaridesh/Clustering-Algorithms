@@ -20,7 +20,7 @@ from matplotlib.patches import Ellipse
 
 
 #Reading of a CSV file
-df = pd.read_csv('shdeshpa.csv', header=None)
+df = pd.read_csv('cluster.csv', header=None)
 print(df, df.shape)
 
 # #----------------------------------------TASK 1-----------------------------------------------#
